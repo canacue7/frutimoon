@@ -1,4 +1,4 @@
 package com.inn.frutimoon.dao;
 
-public class ProductDao {
+public interface ProductDao {
 }
